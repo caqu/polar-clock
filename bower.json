@@ -1,0 +1,17 @@
+{
+    "name": "polar-clock",
+    "version": "0.0.0",
+    "homepage": "https://github.com/caqu/polar-clock",
+    "license": "MIT",
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ],
+    "dependencies": {
+      "polymer": "Polymer/polymer#^2.0.0"
+    }
+  }
+  

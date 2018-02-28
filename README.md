@@ -1,2 +1,2 @@
-# polar-time
-A multi- time zone clock/watch
+# polar-clock
+A multi- time zone analog clock.
